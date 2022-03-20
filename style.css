@@ -65,7 +65,7 @@ body {
 
 .hero-image p {
   margin: 0;
-  font-size: 32px;
+  font-size: 29px;
   line-height: 48px;
 }
 
@@ -84,7 +84,11 @@ body {
 
 .user-image {
   margin: 0 0 32px;
-  text-align: center;
+  text-align: left;
+}
+
+.kotenok {
+  margin: 0 0 32px;
 }
 
 .intro h3,
@@ -165,7 +169,7 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   border-radius: 4px;
-  background-color: #288be6;
+  background-color: #a04ee2;
   color: #ffffff;
 }
 
